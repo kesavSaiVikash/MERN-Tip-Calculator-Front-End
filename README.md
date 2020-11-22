@@ -1,7 +1,6 @@
-#react #nodejs #expressjs #materialui
-Hi guys! This is a Full stack Tip calculator Application created with #react #nodejs #expressjs.🕺 
+Hi guys! This is a Full stack Tip calculator Application created with react nodejs expressjs materialUI.🕺 
 
-One thing that is not normal 😬 here is #materialui 🎁 which I have used for styling and customizing the app.
+One thing that is not normal 😬 here is materialui 🎁 which I have used for styling and customizing the app.
 
 🎄Material-UI for react is an amazing ocean of ready to use components, Theming engine, styling engine, icons SVGs and much more. You should give it a try too!
 
